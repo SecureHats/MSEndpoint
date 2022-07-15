@@ -1,2 +1,1 @@
-# MsSentinel
-Microsoft Sentinel PowerShell toolbox
+# Microsoft Intune PowerShell Module
